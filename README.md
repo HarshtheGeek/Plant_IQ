@@ -93,7 +93,6 @@ APK will be generated in:
 - If you're using Gemini API, insert your API key in the config file (if not public).
 
 ---
-![Idea Submission for Bootcamps Team Details Team name Asteroid Destroyers Team leader name Aryan Jha Problem Statement Reduced InequalitiesQuality EducationGood Health and well being]()
 
 ## 📸 App UI Preview
 
